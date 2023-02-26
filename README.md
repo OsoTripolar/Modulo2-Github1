@@ -1,2 +1,2 @@
 # Modulo2-Github1
-Repostorio de Prueba 1
+Este proyecto es la prueba N° 1 sobre crear directorios en Github y clonarlos en mi pc.
